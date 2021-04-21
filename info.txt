@@ -1,3 +1,0 @@
-pyinstaller --onedir --onefile --name=testfile "C:\Users\user\Desktop\Py\PyCharm Projects\for Excel\for OP\opn arm.py"
-
-https://xn--90aeniddllys.xn--p1ai/zapuskaem-programmu-na-pitone-bez-pitona/
